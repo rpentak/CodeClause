@@ -1,9 +1,6 @@
-# ☀️🌤⛈❄️ A weather web application using Html, Css, Javascript, Weathermap Api
+# Build a weather forecast application using an API 
 
 ## Screenshot
-<img src="https://github.com/Bhaskar-maity/Javascript-weather-app/blob/main/Screenshot.jpg">
+<img src="Screenshot.jpg">
 
 The API provider: http://www.OpenWeatherMap.org
-
-## Live demo
-[Javascript Weather App](https://bhaskar-maity.github.io/Javascript-weather-app/)
